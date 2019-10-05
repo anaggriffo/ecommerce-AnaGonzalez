@@ -46,7 +46,7 @@
 }
 
 footer {
-  padding-top: 3rem;
+  padding-top: 18rem;
   padding-bottom: 3rem;
 }
 
@@ -134,3 +134,32 @@ a.custom-card:hover {
     text-align: center;
   }
 }
+.form-signin{
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 20%;
+  width: 370px;
+}
+.boton_login{
+  text-decoration: none;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #F36679;
+    border-radius: 6px;
+    width: 350px;
+   }
+   .boton_login:hover{
+    background-color: #F36700;
+   }
+   #texto_boton{
+    color: #ffffff;
+   }
+   .select{
+     color: black;
+   }
+   #color-boton{
+    background-color: #F36679;
+
+   }
